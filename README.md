@@ -15,6 +15,10 @@
 
 ## Activity 3: 
 
+![Activity 3 Repo Photo](readme-photos/activity3-repo.png)
+
+![Activity 3 Website Photo](readme-photos/activity3-website.png)
+
 ## Activity 4:
 
 ![Activity 4 Repo Photo](readme-photos/activity4-repo.png)
