@@ -4,7 +4,8 @@
 > https://sarahagib.github.io
 
 ## Activity 1: 
-> ![Activity 1 Repo Photo] (readme-photos/activity1-repo-photo.png)
+
+![Activity 1 Repo Photo](readme-photos/activity1-repo-photo.png)
 
 ### Website Preview
 <p align="center"> 
