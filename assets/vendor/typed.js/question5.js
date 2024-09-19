@@ -39,7 +39,7 @@ function sortProjects(projects){
     return projects; 
 }; 
 
-function renderProjects(projects){
+function displayProjects(projects){
 
     sortedProjects = sortProjects(projects); 
 
@@ -117,4 +117,4 @@ function loadMoreProjects(){
     document.getElementById("LoadMore").style.display = "none"
 }
 
-renderProjects(projects)
+displayProjects(projects)
