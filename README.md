@@ -26,3 +26,7 @@
 ![Activity 4 Website Photo](readme-photos/activity4-website.png)
 
 ## Activity 5: 
+
+![Activity 5 Repo Photo](readme-photos/activity5-repo.png)
+
+![Activity 5 Website Photo](readme-photos/activity5-website.png)
