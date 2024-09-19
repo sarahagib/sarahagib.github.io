@@ -7,8 +7,7 @@ const projects = [
         imageurl:'/assets/img/justice-vs-fairness.jpeg',
         description: 'Developed linear regression model in Python using features provided by COMPAS dataset and obtained accuracy equivalent to that of the commercial risk assessment software COMPAS.',
         tools: 'Python, Pandas, NumPy, SkLearn and PyTorch',
-        accomplishment: ['Compared accuracy, calibration, and false positive parity of Linear Regression model to that of adversarial trained Neural Network.',
-                        ' Demonstrated improved observational fairness without accuracy impairment.'],
+        accomplishment: 'Compared accuracy, calibration, and false positive parity of Linear Regression model to that of adversarial trained Neural Network. Demonstrated improved observational fairness without accuracy impairment.',
         collablinks: 'https://drive.google.com/file/d/1BN0gBdj-YYLn46Mamb9UTtcevggUXESQ/view?usp=sharing'
     }, 
     {
@@ -18,9 +17,19 @@ const projects = [
         imageurl: '/assets/img/movie-recommender-picture.png',
         description: 'Designed Movie Recommender System which utilized graph neural network to reocmmend movies between similar users.',
         tools: 'Python, Pandas, NumPy, SkLearn and PyTorch',
-        accomplishment: ['Recommended top-150 movies for each user', 
-                        'Investigating use of Node2Vec to improve Recall@150 of Neural Network'], 
+        accomplishment:'Recommended top-150 movies for each user. Investigated use of Node2Vec to improve Recall@150 of Neural Network', 
         collablinks: 'https://colab.research.google.com/drive/1sGRxw6qVEi5SCKm6EyHOX8whg16j8oal?usp=sharing'
+
+    },
+    {
+        id: 3,
+        name:'Designing and Tunning and CNN',
+        date: new Date('2019-04-01'),
+        imageurl: 'assets/img/cnn-image.png',
+        description: 'Designed, tuned and tested a convolutional neural network to classify a corpus of images into 10 categories.',
+        tools: 'Python, Pandas, NumPy, SkLearn and PyTorch',
+        accomplishment: "Achieved 86% accuracy in classification while testing and minimizing false positive and false negative rates.",
+        collablinks: 'https://github.com/sarahagib/ECE421-Introduction-to-Machine-Learning-/blob/main/Designing%20and%20Tuning%20a%20Convolutional%20Neural%20Network.ipynb'
 
     }
 ];
